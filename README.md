@@ -1,1 +1,1 @@
-# spring_memberpj(jdbc template)
+# spring_memberpj(config ver jdbc template)
